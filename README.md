@@ -10,6 +10,7 @@ NEXUS MODS LINK: https://www.nexusmods.com/site/mods/1095?tab=description
 
 UPDATED INSTRUCTIONS:
 To create a list of mods per game run the executable and select a vortex backup file.
+
 *-Vortex creates these automatically in user\AppData\Roaming\Vortex\temp\state_backups_full.
 *-You can also manually make a backup to any location you want in settings/workarounds -> create backup
 -Select a game from the top list of detected games
