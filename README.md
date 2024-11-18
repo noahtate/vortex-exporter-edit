@@ -1,3 +1,8 @@
+[Usage]
+This program is designed to create a list of installed mods from a vortex backup file.
+Vortex creates these automatically in user\AppData\Roaming\Vortex\temp\state_backups_full.
+You can also manually make a backup to any location you want in settings/workarounds -> create backup
+
 NEXUS MODS LINK: https://www.nexusmods.com/site/mods/1095?tab=description
 
 *** *DISCLAIMER* This mod is very much in a beta state. I originally modified the modlist exporter for my own use, and saw that many comments requested the same features I wanted to implement. The program has only been tested exporting one game's profiles at a time. If you select more than one game at a time it may break the program. Please feel free to submit bug reports and I will continue to upload updates as I get around to fixing things and implementing features. ***
@@ -14,11 +19,6 @@ Copied verbatim from LoneRaptor's : https://www.nexusmods.com/site/mods/485?tab=
 
 [installation]
 - no installation required just extract somewhere and run the Vortex_Exporter.exe
-
-[Usage]
-This program is designed to create a list of installed mods from a vortex backup file.
-Vortex creates these automatically in user\AppData\Roaming\Vortex\temp\state_backups_full.
-You can also manually make a backup to any location you want in settings/workarounds -> create backup
 
 To create a list of mods per game run the executable and select a vortex backup file.
 - select one or more games from the list of detected games (the all option exports a list for every game that is detected).
